@@ -1,0 +1,25 @@
+<svg width="200mm" height="200mm" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-399.65 -1110.8)">
+  <g transform="matrix(.27546 .22125 -.22125 .27546 567.57 948.11)" fill="#fff">
+   <path d="m503.54 737.35h-131.82l65.912 131.12z" style="paint-order:markers fill stroke"/>
+   <path d="m498.88 726.43-61.254-58.039-61.254 58.039z" style="paint-order:markers fill stroke"/>
+   <path d="m509.63 721.95-60.188-57.322 81.147-11.823z" style="paint-order:markers fill stroke"/>
+   <path d="m520.02 723.38 87.774-28.84-66.816-40.125z" style="paint-order:markers fill stroke"/>
+   <path d="m608.02 682.18-30.318-62.427-30.363 25.885z" style="paint-order:markers fill stroke"/>
+   <path d="m615.94 673.85 0.80608-26.511-22.571-17.555z" style="paint-order:markers fill stroke"/>
+   <path d="m601.02 707.83-143.26 144.65 58.542-116.2z" style="paint-order:markers fill stroke"/>
+   <path d="m365.62 721.95 60.188-57.322-81.147-11.823z" style="paint-order:markers fill stroke"/>
+   <path d="m355.24 723.38-87.774-28.84 66.816-40.125z" style="paint-order:markers fill stroke"/>
+   <path d="m267.24 682.18 30.318-62.427 30.363 25.885z" style="paint-order:markers fill stroke"/>
+   <path d="m259.31 673.85-0.80608-26.511 22.571-17.555z" style="paint-order:markers fill stroke"/>
+   <path d="m274.24 707.83 143.26 144.65-58.542-116.2z" style="paint-order:markers fill stroke"/>
+   <path d="m339.34 641.46-35.213-30.4 35.593-30.02 97.905-14.06 97.905 14.06 35.593 30.02-35.213 30.4-98.285 14.06z" style="paint-order:markers fill stroke"/>
+  </g>
+  <g transform="matrix(.29121 .1024 -.1024 .29121 294.16 912.88)">
+   <path d="m797.76 658.27-85.416 19.924a119.35 119.35 0 0 0-51.46 98.128 119.35 119.35 0 0 0 119.35 119.35 119.35 119.35 0 0 0 119.35-119.35 119.35 119.35 0 0 0-101.83-118.05zm-103.64 62.689c0.38088-0.037 0.81175 0.0727 1.2886 0.41726l5.1361 4.2219c0.75571 0.63658 0.59766 1.3447 0.2324 1.9537-20.544 33.391-17.93 76.128 6.4027 106.61 1.0209 1.2456 0.8421 2.1329-0.0636 2.9256l-4.8442 4.0906c-0.82874 0.62512-1.8064 0.57212-2.626-0.48442-27.21-34.044-30.045-81.665-6.9935-118.73 0.33725-0.46906 0.83275-0.93859 1.4675-1.0003z" fill="#fff" fill-opacity=".99648" style="paint-order:markers fill stroke"/>
+   <path d="m711.77 668.39c-0.20738-13.573 3.0936-25.311 23.456-28.118-0.65712-6.4336 1.7443-9.8103 5.5382-12.384 1.4731-0.99946 4.808-1.7048 6.9084-1.263 3.9633 0.83369 7.1475 2.9745 9.1732 8.482 19.53-6.4117 27.646 2.6869 33.415 14.975z" fill="#fff" style="paint-order:markers fill stroke"/>
+   <path d="m1073.4 460.06 10.612 15.728-1.8188-36.498 32.957-9.453-37.55-10.626 20.625-20.905-31.89 1.4696 4.7435-39.954-24.176 30.635-35.462-31.619 8.8899 36.846-23.455-3.4634 21.618 19.643-48.052-0.80292 12.711 10.427" fill="none" stroke="#fff" stroke-width="11.118" style="paint-order:markers fill stroke"/>
+   <path d="m742.77 610.61c-4.2778-312.84 242.85 91.71 301.16-188.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.958" style="paint-order:markers fill stroke"/>
+  </g>
+ </g>
+</svg>
